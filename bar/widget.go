@@ -10,3 +10,7 @@ func (w Widget) ID() string {
 func (w Widget) Weight() int {
 	return 0
 }
+
+func (w Widget) String() int {
+	return "Bar"
+}
