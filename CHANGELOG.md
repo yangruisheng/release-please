@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/yangruisheng/release-please/compare/v1.0.0...v1.1.0) (2023-06-08)
+
+
+### Features
+
+* **foo:** add String func ([3250153](https://github.com/yangruisheng/release-please/commit/3250153cd311052f8d678a6071dfe8707f707b49))
+
 ## 1.0.0 (2023-06-08)
 
 
