@@ -8,10 +8,10 @@
 
         },
         "foo": {
-            "package-name": "foo"
+            "component": "foo"
         },
         "bar": {
-            "package-name": "bar"
+            "component": "bar"
         }
     }
 }
