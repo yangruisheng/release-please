@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/yangruisheng/release-please/compare/foo/v1.0.0...foo/v1.1.0) (2023-06-08)
+
+
+### Features
+
+* change the weight as 1000 ([e941a50](https://github.com/yangruisheng/release-please/commit/e941a5086d2a4839b65bb5416d84f2d837309e3c))
+
 ## 1.0.0 (2023-06-08)
 
 
