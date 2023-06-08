@@ -8,7 +8,7 @@ func (w Widget) ID() string {
 }
 
 func (w Widget) Weight() int {
-	return 0
+	return 1000
 }
 
 func (w Widget) String() int {
