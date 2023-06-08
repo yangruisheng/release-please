@@ -1,5 +1,7 @@
 {
+    "monorepo-tags": true,
     "release-type": "go",
+    "tag-separator": "/",
     "packages": {
         ".": {
 
