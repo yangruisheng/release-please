@@ -5,7 +5,9 @@
     "tag-separator": "/",
     "packages": {
         ".": {
-
+            "exclude-paths": [
+                "foo"
+            ]
         },
         "foo": {
             "component": "foo"
