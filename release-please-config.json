@@ -4,7 +4,11 @@
         ".": {
 
         },
-        "foo": { },
-        "bar": { }
+        "foo": {
+            "package-name": "foo"
+        },
+        "bar": {
+            "package-name": "bar"
+        }
     }
 }
